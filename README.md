@@ -45,7 +45,12 @@
             labelSelector: app.kubernetes.io/part-of=flux
     ```
     8. Re-run the `flux bootstrap...` command after each of the changes or after making all the changes
+    9. `flux bootstrap` should have completed and all pods in the `flux-system` namespace should be running
 
+# Pacman via GitOps
+  1. Connect to the cluster running flux
+
+  
 
 
 
