@@ -8,3 +8,6 @@ spec:
   ref:
     branch: main
   url: https://github.com/jnpacker/k8s-pacman-app
+  ignore: |
+    deploy/prehook/*
+    deploy/posthook/*

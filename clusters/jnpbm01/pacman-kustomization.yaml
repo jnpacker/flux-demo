@@ -15,6 +15,3 @@ spec:
   targetNamespace: default
   timeout: 3m0s
   wait: true
-  ignore: |
-    deploy/prehook/*
-    deploy/posthook/*
