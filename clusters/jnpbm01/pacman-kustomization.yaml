@@ -12,6 +12,6 @@ spec:
   sourceRef:
     kind: GitRepository
     name: pacman
-  targetNamespace: pacman-app
+  targetNamespace: default
   timeout: 3m0s
   wait: true
