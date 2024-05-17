@@ -1,3 +1,5 @@
 id*rsa
 id*rsa.pub
 FLUX-CMDS.md
+gitops-example/secret-flux-git-deploy.yaml
+deploy/install.yaml
